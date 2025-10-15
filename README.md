@@ -45,6 +45,29 @@ To deploy an application (Dockerized Image) using Azure Container App Service fo
 
 
 
+  4. **Testing  Deliverables**
+  
+- Azure Resource Group Created
+  
+- Container App Environment Provisioned in Azure
+  
+- Docker Image pushed to registry
+  
+- Container App Deployed and publicly accessible
+  
+- Endpoint URL	Shared with Intructor
+  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
