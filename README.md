@@ -56,10 +56,20 @@ To deploy an application (Dockerized Image) using Azure Container App Service fo
 - Container App Deployed and publicly accessible
   
 - Endpoint URL	Shared with Intructor
+
+- GitHub Repository shared with Instructor
   
 
 
+ 5. **Deployment**
 
+- Verify app is running via Azure Portal
+
+- Test endpoint URL in browser
+
+- Monitor logs
+
+- Set up environment variables if needed
 
 
 
