@@ -128,7 +128,9 @@ To deploy an application (Dockerized Image) using Azure Container App Service fo
 
 - Docker Hub
 
-- GitHub Repository 
+- GitHub Repository
+
+
 
    
 
