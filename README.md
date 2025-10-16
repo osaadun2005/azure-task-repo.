@@ -64,7 +64,7 @@ To deploy an application (Dockerized Image) using Azure Container App Service fo
 
 
   - Step 6: Enable Ingress and set port (3000)
-  - 
+    
 
     <img width="710" height="662" alt="aca-td-demo-5" src="https://github.com/user-attachments/assets/5e2e0b21-e8f1-4a9b-b7cb-56a2f82cb75f" />
 
