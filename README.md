@@ -100,7 +100,7 @@ To deploy an application (Dockerized Image) using Azure Container App Service fo
   
 - Container App Deployed and publicly accessible
   
-- Endpoint URL	Shared with Intructor :https://dem-app.thankfulmoss-cb7e7efd.eastus.azurecontainerapps.io/
+- Endpoint URL	Shared with Intructor :https://demo-app.jollybeach-50cb6312.westus2.azurecontainerapps.io/
 
 ![WhatsApp Image 2025-10-17 at 3 52 01 AM](https://github.com/user-attachments/assets/5f619e80-0318-4742-b117-c2481e60f325)
 
