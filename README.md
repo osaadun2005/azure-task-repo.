@@ -10,7 +10,7 @@ To deploy an application (Dockerized Image) using Azure Container App Service fo
 
  -  Owner: Intern/ Osa Adun
 
- -  Instructor: Gabriel Mekuleyi
+ - Instructor: Gabriel Mekuleyi
 
 - Start Date: October 14, 2025
 
